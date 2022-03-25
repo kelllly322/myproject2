@@ -1,4 +1,6 @@
-package com.kelly;
+package com.kelly.sales;
+
+import com.kelly.sales.Customer;
 
 public class SilverCustomer extends Customer {
     public  SilverCustomer(String id, int amount){

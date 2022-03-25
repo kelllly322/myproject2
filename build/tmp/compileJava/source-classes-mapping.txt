@@ -1,18 +1,18 @@
-com/kelly/Hello.java
- com.kelly.Hello
+com/kelly/Shopping.java
+ com.kelly.Shopping
+com/kelly/GoldCustomer.java
+ com.kelly.GoldCustomer
 com/kelly/GraduateStudent.java
  com.kelly.GraduateStudent
 com/kelly/Student.java
  com.kelly.Student
 com/kelly/Scoring.java
  com.kelly.Scoring
-com/kelly/ScoringNG.java
- com.kelly.ScoringNG
-com/kelly/Shopping.java
- com.kelly.Shopping
-com/kelly/GoldCustomer.java
- com.kelly.GoldCustomer
 com/kelly/Customer.java
  com.kelly.Customer
 com/kelly/SilverCustomer.java
  com.kelly.SilverCustomer
+com/kelly/ScoringNG.java
+ com.kelly.ScoringNG
+com/kelly/Hello.java
+ com.kelly.Hello

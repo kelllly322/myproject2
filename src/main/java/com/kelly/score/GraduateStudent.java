@@ -1,4 +1,4 @@
-package com.kelly;
+package com.kelly.score;
 
 public class GraduateStudent extends Student {
     int thesis;
