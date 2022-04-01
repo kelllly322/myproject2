@@ -1,18 +1,30 @@
-com/kelly/Shopping.java
- com.kelly.Shopping
-com/kelly/GoldCustomer.java
- com.kelly.GoldCustomer
-com/kelly/GraduateStudent.java
- com.kelly.GraduateStudent
-com/kelly/Student.java
- com.kelly.Student
-com/kelly/Scoring.java
- com.kelly.Scoring
-com/kelly/Customer.java
- com.kelly.Customer
-com/kelly/SilverCustomer.java
- com.kelly.SilverCustomer
-com/kelly/ScoringNG.java
- com.kelly.ScoringNG
+com/kelly/sales/SalesTester.java
+ com.kelly.sales.SalesTester
+com/kelly/ticket/Ticket.java
+ com.kelly.ticket.Ticket
+com/kelly/score/Scoring.java
+ com.kelly.score.Scoring
+com/kelly/sales/GoldCustomer.java
+ com.kelly.sales.GoldCustomer
+com/kelly/sales/SilverCustomer.java
+ com.kelly.sales.SilverCustomer
+com/kelly/score/Student.java
+ com.kelly.score.Student
+com/kelly/score/GraduateStudent.java
+ com.kelly.score.GraduateStudent
+com/kelly/sales/Shopping.java
+ com.kelly.sales.Shopping
+com/kelly/ticket/StudentTicket.java
+ com.kelly.ticket.StudentTicket
+com/kelly/ticket/Station.java
+ com.kelly.ticket.Station
+com/kelly/sales/Customer.java
+ com.kelly.sales.Customer
+com/kelly/ticket/Tester.java
+ com.kelly.ticket.Tester
+com/kelly/sales/PlatinumCustomer.java
+ com.kelly.sales.PlatinumCustomer
 com/kelly/Hello.java
  com.kelly.Hello
+com/kelly/score/ScoringNG.java
+ com.kelly.score.ScoringNG
