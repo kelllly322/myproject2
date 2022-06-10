@@ -1,7 +1,7 @@
 package com.kelly.score;
 
-public class Student {
-    String name;
+ public class Student implements Printable {
+    public String name;
     int english;
     int math;
     public Student(String name) {
