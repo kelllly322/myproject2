@@ -42,3 +42,5 @@ ui/MyActionListener.java
  ui.MyActionListener
 ui/MyWin.java
  ui.MyWin
+MyForm.java
+ MyForm
