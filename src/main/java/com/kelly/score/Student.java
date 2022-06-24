@@ -1,9 +1,9 @@
 package com.kelly.score;
 
  public class Student implements Printable {
-    public String name;
-    int english;
-    int math;
+    protected String name;
+    protected int english;
+    protected int math;
     public Student(String name) {
         this.name = name;
     }
