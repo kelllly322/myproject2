@@ -13,7 +13,7 @@ public class Customer {
             return (amount/1000)*off*1000;
         }
     public void print() {
-        System.out.println(id +"\t" + amount +"\t" +(amount-backMoney()));
+            System.out.println(id +"\t" + amount +"\t" +(amount-backMoney()));
     }
-    }
+}
 

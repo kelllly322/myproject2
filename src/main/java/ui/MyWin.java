@@ -2,6 +2,7 @@ package ui;
 
 import javax.swing.*;
 import java.awt.*;
+import java.awt.event.ActionEvent;
 
 public class MyWin {
     public static void main(String[] args) {
@@ -15,13 +16,18 @@ public class MyWin {
         //add Componemt
         JButton button = new JButton("Ok!");
         //Anonymous class
-        MyActionListener Listener = new MyActionListener();
-        button.addActionListener(Listener);
+        button.addActionListener(new MyActionListener() {
+            public void actionPerformed(ActionEvent e) {
+                System.out.println("Hello World!");
+            }
+        });
+        //MyActionListener listener = new MyActionListener();
+        //button.addActionListener(listener);
         //Layout
         //frame.setLayout(new BorderLayout());
         frame.setLayout(new FlowLayout());
         frame.add(button);
-        frame.add(new JButton("testing"));
+        //frame.add(new JButton("testing"));
 
         frame.setVisible(true);
         System.out.println("End?");
